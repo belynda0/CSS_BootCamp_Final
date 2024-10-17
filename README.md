@@ -1,6 +1,4 @@
-# CSS_BootCamp_Final
-Final project for CSS: 
-Main Question:
+##Main Question:
 Do blue states have stricter crime policies than red states?
 
 To explore this, we are examining gubernatorial races where election results have flipped and assessing their impact on prison populations over a five-year period. Is there a noticeable difference in population trends between Democratic and Republican states?
