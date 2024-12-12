@@ -1,3 +1,5 @@
+Critical evaluation of political ideology's impact on criminal justice system
+
 **Main Question:**
 Do blue states have stricter crime policies than red states?
 
